@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/SantiagoLozano069.github.io/static/css/main.08a60040.chunk.css",
+    "main.js": "/SantiagoLozano069.github.io/static/js/main.bcded2ae.chunk.js",
+    "main.js.map": "/SantiagoLozano069.github.io/static/js/main.bcded2ae.chunk.js.map",
+    "runtime-main.js": "/SantiagoLozano069.github.io/static/js/runtime-main.61f5d8be.js",
+    "runtime-main.js.map": "/SantiagoLozano069.github.io/static/js/runtime-main.61f5d8be.js.map",
+    "static/js/2.6b8a7cff.chunk.js": "/SantiagoLozano069.github.io/static/js/2.6b8a7cff.chunk.js",
+    "static/js/2.6b8a7cff.chunk.js.map": "/SantiagoLozano069.github.io/static/js/2.6b8a7cff.chunk.js.map",
+    "static/js/3.9781ee4f.chunk.js": "/SantiagoLozano069.github.io/static/js/3.9781ee4f.chunk.js",
+    "static/js/3.9781ee4f.chunk.js.map": "/SantiagoLozano069.github.io/static/js/3.9781ee4f.chunk.js.map",
+    "index.html": "/SantiagoLozano069.github.io/index.html",
+    "static/css/main.08a60040.chunk.css.map": "/SantiagoLozano069.github.io/static/css/main.08a60040.chunk.css.map",
+    "static/js/2.6b8a7cff.chunk.js.LICENSE.txt": "/SantiagoLozano069.github.io/static/js/2.6b8a7cff.chunk.js.LICENSE.txt",
+    "static/media/bannerIngenieriaDeNegocios.8b97aa97.jpg": "/SantiagoLozano069.github.io/static/media/bannerIngenieriaDeNegocios.8b97aa97.jpg",
+    "static/media/bannerIngenieriaDeNegocios2.4010c887.jpg": "/SantiagoLozano069.github.io/static/media/bannerIngenieriaDeNegocios2.4010c887.jpg",
+    "static/media/bannerIngenieriaDeNegocios4.2d4076bd.jpg": "/SantiagoLozano069.github.io/static/media/bannerIngenieriaDeNegocios4.2d4076bd.jpg",
+    "static/media/ficha-AyB.1b965c18.pdf": "/SantiagoLozano069.github.io/static/media/ficha-AyB.1b965c18.pdf",
+    "static/media/ficha-apelsa.931ef31b.pdf": "/SantiagoLozano069.github.io/static/media/ficha-apelsa.931ef31b.pdf",
+    "static/media/ficha-rk.aa43c997.pdf": "/SantiagoLozano069.github.io/static/media/ficha-rk.aa43c997.pdf",
+    "static/media/fondo1T1.6c61d5bb.jpg": "/SantiagoLozano069.github.io/static/media/fondo1T1.6c61d5bb.jpg",
+    "static/media/fotoX.bf93824a.png": "/SantiagoLozano069.github.io/static/media/fotoX.bf93824a.png",
+    "static/media/img1-T1.f996751d.png": "/SantiagoLozano069.github.io/static/media/img1-T1.f996751d.png",
+    "static/media/img1-T2.40122ed2.png": "/SantiagoLozano069.github.io/static/media/img1-T2.40122ed2.png",
+    "static/media/img1-T4.738eacf7.jpeg": "/SantiagoLozano069.github.io/static/media/img1-T4.738eacf7.jpeg",
+    "static/media/img2-T2.eb9c0e4a.png": "/SantiagoLozano069.github.io/static/media/img2-T2.eb9c0e4a.png",
+    "static/media/logo.6ce24c58.svg": "/SantiagoLozano069.github.io/static/media/logo.6ce24c58.svg",
+    "static/media/pdf.61f9fe36.png": "/SantiagoLozano069.github.io/static/media/pdf.61f9fe36.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61f5d8be.js",
+    "static/js/2.6b8a7cff.chunk.js",
+    "static/css/main.08a60040.chunk.css",
+    "static/js/main.bcded2ae.chunk.js"
+  ]
+}
